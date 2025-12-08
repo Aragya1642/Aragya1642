@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Aragya Goyal  
+<img src="https://komarev.com/ghpvc/?username=Aragya1642&style=flat-square&color=blue" alt=""/> <br>
 
 🚀 **Robotics & Computer Engineering Enthusiast | Aspiring Researcher in Field Robotics**  
 
